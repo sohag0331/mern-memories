@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## <a href="https://mern-mymemories.netlify.app/" target="_blank">LIVE DEMO</a>
 
+## <a href="https://github.com/sohag0331/mern-memories-back-end" target="_blank">Server Souce Code</a>
+
+## Server Deployment method
+
+<a href="https://www.heroku.com/" target="_blank">HEROKU</a>
 
 ## Available Scripts
 
